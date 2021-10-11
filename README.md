@@ -8,16 +8,27 @@ This repo helps you to get started with ExpressJs in docker Environment.
 
 ## Docker
   
-Build Command
-```bash
-    docker build . -t your-name/express-docker-app
+- Build Command
+  ```bash
+      docker build . -t your-name/express-docker-app
 
-```
-Run Command
-```bash
-    docker run -p 8000:8080 -d your-name/express-docker-app
+  ```
+- Run Command
+  ```bash
+      docker run -p 8000:8080 -d your-name/express-docker-app
 
-```    
+  ``` 
+- List Containers
+  ```bash
+      docker ps
+
+  ```
+- Stop Command
+  ```bash
+      docker stop <container_id>
+
+  ``` 
+
 ## Run Locally
 
 Clone the project
