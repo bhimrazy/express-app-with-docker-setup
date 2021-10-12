@@ -55,7 +55,8 @@ Start the server
   npm run start
 ```
 
-  
+[![App Screenshot](https://i3.ytimg.com/vi/SgztwJYj1Es/maxresdefault.jpg)](https://www.youtube.com/watch?v=SgztwJYj1Es)
+
 ## References
 
 [Dockerizing a Node.js web app](https://nodejs.org/en/docs/guides/nodejs-docker-webapp/)
